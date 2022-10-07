@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JayArD27
+<h1> 👋 Hi, I’m @JayArD27 </h1>
 - 👀 I’m interested in art
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on design
